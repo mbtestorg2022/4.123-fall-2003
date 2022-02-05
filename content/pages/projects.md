@@ -9,10 +9,63 @@ Compilations of Student Work
 
 Here are some examples of student solutions to the various class exercises. Each work is courtesy of the student named, and used with permission.
 
-| PROJECTS | TOPICS |
-| --- | --- |
-| Problem 1 | Serial Notations / Drift Drawings ([PDF - 1.5 MB]({{< baseurl >}}/resources/studproblem1)) |
-| Problem 2 | Recording Device - Drawing (on) the City ([PDF]({{< baseurl >}}/resources/studproblem2)) |
-| Problem 3 | Roof eScape ([PDF]({{< baseurl >}}/resources/studproblem3)) |
-| Problem 5 | Mapping Instrument / Model ([PDF]({{< baseurl >}}/resources/studproblem5)) |
-| Final Problem | Land Form Processes Center ([PDF]({{< baseurl >}}/resources/studfinalproblem))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem 1
+{{< tdclose >}}
+{{< tdopen >}}
+Serial Notations / Drift Drawings ([PDF - 1.5 MB]({{< baseurl >}}/resources/studproblem1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem 2
+{{< tdclose >}}
+{{< tdopen >}}
+Recording Device - Drawing (on) the City ([PDF]({{< baseurl >}}/resources/studproblem2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem 3
+{{< tdclose >}}
+{{< tdopen >}}
+Roof eScape ([PDF]({{< baseurl >}}/resources/studproblem3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem 5
+{{< tdclose >}}
+{{< tdopen >}}
+Mapping Instrument / Model ([PDF]({{< baseurl >}}/resources/studproblem5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Problem
+{{< tdclose >}}
+{{< tdopen >}}
+Land Form Processes Center ([PDF]({{< baseurl >}}/resources/studfinalproblem))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

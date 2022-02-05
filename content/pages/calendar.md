@@ -4,41 +4,342 @@ title: Calendar
 uid: 1e43e71a-4db3-8af7-db88-7f97f9f65be6
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Issue Problem 1a and 1 |
-| 2 | Desk Crits |
-| 3 | Discussion |
-| 4 | Presentations |
-| 5 | Drawing Review/Issue Problem 2 |
-| 6 | Desk Crits |
-| 7 | Field Trip |
-| 8 | Field Trip DIA Beacon |
-| 9 | Rooftop DIA Chelsea/Issue Design Problem |
-| 10 | DIA Beacon, Storm King |
-| 11 | Desk Crits/Format Research |
-| 12 | Review Re-presentation, Research from NYC and Initial Design Proposals |
-| 13 | Desk Crits |
-| 14 | Pin Up |
-| 15-17 | Desk Crits |
-| 18 | Projects Due/Final Review Project 1 |
-| 19 | Documentation Session |
-| 20 | Problem 4 Due |
-| 21 | Problem 5 Due |
-| 22 | Issue Program |
-| 23 | Desk Crits/Concept Discussion |
-| 24 | Desk Crits/3 Concept Models |
-| 25 | Pin-Up/Concept Model Development |
-| 26 | Desk Crits/Site Sections (3) |
-| 27 | Desk Crits/Sectional Models (2) |
-| 28 | Desk Crits/Model + Plans |
-| 29 | Desk Crits/Sections |
-| 30 | Mid-Review/Plan, Section, Model |
-| 31 | Desk Crits/Diagrams of Systems |
-| 32 | Desk Crits/Revised Plan + Sections |
-| 33 | Desk Crits/Model at 1/8" Scale |
-| 34 | Desk Crits/New Model at 1/8" Scale, Plan + Sections |
-| 35 | Desk Crits/Experience Images, Perspectives/Collages |
-| 36 | 3/4 Review/Model 1/8" Scale, Plan, Sections, Experience Image |
-| 37-39 | Desk Crits |
-| 40-44 | Final Review Week
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Issue Problem 1a and 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Drawing Review/Issue Problem 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip DIA Beacon
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Rooftop DIA Chelsea/Issue Design Problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+DIA Beacon, Storm King
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Format Research
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Review Re-presentation, Research from NYC and Initial Design Proposals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Pin Up
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-17
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Projects Due/Final Review Project 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Documentation Session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Problem 4 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Problem 5 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Issue Program
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Concept Discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/3 Concept Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-Up/Concept Model Development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Site Sections (3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Sectional Models (2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Model + Plans
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Sections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-Review/Plan, Section, Model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Diagrams of Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Revised Plan + Sections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Model at 1/8" Scale
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/New Model at 1/8" Scale, Plan + Sections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits/Experience Images, Perspectives/Collages
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+3/4 Review/Model 1/8" Scale, Plan, Sections, Experience Image
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37-39
+{{< tdclose >}}
+{{< tdopen >}}
+Desk Crits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40-44
+{{< tdclose >}}
+{{< tdopen >}}
+Final Review Week
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
